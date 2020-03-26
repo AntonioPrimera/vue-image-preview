@@ -4,18 +4,18 @@ Used as a simple preview component for picture upload forms.
 
 ##Install
 
-``$ npm install vue-image-preview``
+``$ npm install apl-vue-image-preview``
 
 or
 
-``$ yarn add vue-image-previews``
+``$ yarn add apl-vue-image-previews``
 
 ##Usage
 
 **In a Vue file:**
 
 ```javascript
-import ImagePreview from 'vue-image-preview';
+import ImagePreview from 'apl-vue-image-preview';
 
 export default {
 	components: {
@@ -31,7 +31,7 @@ export default {
 ```javascript
 window.Vue = require('vue');
 
-Vue.component('image-preview', require('VueImagePreview').default);
+Vue.component('image-preview', require('apl-vue-image-preview').default);
 
 const app = new Vue({
     el: '#app',
