@@ -1,5 +1,5 @@
 {
-	"name": "vue-image-preview",
+	"name": "vue-image-upload-preview",
 	"version": "1.0.0",
 	"description": "Vue Component - Image Preview for Picture upload forms",
 	"main": "VueImagePreview.vue",
