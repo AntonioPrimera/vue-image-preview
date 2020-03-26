@@ -1,0 +1,11 @@
+{
+  "name": "vue-image-preview",
+  "version": "1.0.0",
+  "description": "Vue Component - Image Preview for Picture upload forms",
+  "main": "VueImagePreview.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Primera",
+  "license": "ISC"
+}
